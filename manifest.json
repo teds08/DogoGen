@@ -1,0 +1,15 @@
+{
+    "name": "Dogo Pic generator",
+    "short_name": "Dogo",
+    "icons": [
+      {
+        "src": "img/icons/dogo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#333"
+  }
